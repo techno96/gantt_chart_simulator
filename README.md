@@ -1,5 +1,4 @@
-# gantt_chart_simulator
-Gantt Chart simulation for process overlap
+#Gantt Chart simulation for process overlap
 
 This is a primitive simulator that allows you to visualize how process overlap and scheduling happens in an Operating System using a Gantt Chart, by utilizing process burst times.
 
