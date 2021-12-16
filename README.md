@@ -5,9 +5,9 @@ This is a primitive simulator that allows you to visualize how process overlap a
 
 It provides a visualization for the following scheduling strategies : 
 
-1-FCFS
-2-SHORTEST JOB FIRST(non-preemptive)
-3-SHORTEST JOB FIRST(preemptive)
-4-ROUND ROBIN
-5-PRIORITY(non-preemptive)
-6-PRIORITY(preemptive)
+* FCFS (First Come First Serve)
+* SHORTEST JOB FIRST(non-preemptive)
+* SHORTEST JOB FIRST(preemptive)
+* ROUND ROBIN
+* PRIORITY(non-preemptive)
+* PRIORITY(preemptive)
